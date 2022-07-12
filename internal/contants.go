@@ -3,7 +3,7 @@ const (
 	// General
 	NAME					string = "vetinari"
 	// Flags
-	SERVICENAME				string	=	"service-name"
+	SERVICENAME				string	= "service-name"
 	KEYCTLSCOPE 			string	= "keyctl-scope"
 	KEYCHAINNAME 			string  = "keychain-name"
 	CONFIGFILE				string	= "config-file"
